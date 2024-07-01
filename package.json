@@ -146,7 +146,7 @@
     "vite": "^2.7.0",
     "vite-plugin-pwa": "^0.11.11",
     "vite-plugin-tdoc": "^2.0.0",
-    "workbox-precaching": "^6.3.0"
+    "workbox-precaching": "^7.1.0"
   },
   "dependencies": {
     "@use-gesture/react": "^10.2.10",
